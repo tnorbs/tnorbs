@@ -1,4 +1,4 @@
-:wave: Hi! I'm a junior Front-End developer at [Conecta Nuvem] (http://conectanuvem.com.br) developing interfaces using Vue.js & Firebase
+:wave: Hi! I'm a junior Front-End developer at [Conecta Nuvem](http://conectanuvem.com.br) developing interfaces using Vue.js & Firebase
 
 :dart: I'm focusing my studies in Javascript, Vue.js & the good ol' HTML & CSS
 
